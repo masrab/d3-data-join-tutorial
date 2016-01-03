@@ -1,0 +1,32 @@
+html, body {
+	height: 100%;
+}
+
+
+#container {
+	padding: 5px;
+
+}
+
+svg {
+
+	border: 1px solid gray;
+}
+
+text {
+  font: bold 24px monospace;
+}
+
+.enter {
+	fill: lightgreen;
+}
+
+.update {
+	fill: steelblue;
+
+}
+
+.exit{
+
+	opacity: 0.2;
+}
